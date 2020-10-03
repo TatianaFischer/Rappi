@@ -3,11 +3,11 @@ Curso de desenvolvimento de aplicações completas, incluindo frontend Web com R
 
 Rappi: projeto final do módulo front-end desenvolvido em grupo.
 Devs que contribuiram:
-Tatiana Fischer (https://github.com/TatianaFischer)
-Fabrício Rodrigues (https://github.com/ProgFabs), 
-Lais Petra (https://github.com/laispetra),
-Ana Terra (https://github.com/atmirala),
-Diego Messias (https://github.com/Diego-999)
+- Tatiana Fischer (https://github.com/TatianaFischer)
+- Fabrício Rodrigues (https://github.com/ProgFabs), 
+- Lais Petra (https://github.com/laispetra),
+- Ana Terra (https://github.com/atmirala),
+- Diego Messias (https://github.com/Diego-999)
 
 # Frontend - Projeto Final: rappi4
 

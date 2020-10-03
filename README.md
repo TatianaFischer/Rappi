@@ -1,9 +1,17 @@
 # Labenu | Full-Stack Web Development Bootcamp
-Desenvolvimento de aplicações completas, incluindo frontend Web com React e backend com Node.js.
+Curso de desenvolvimento de aplicações completas, incluindo frontend Web com React e backend com Node.js.
+
+Rappi: projeto final do módulo front-end desenvolvido em grupo.
+Devs que contribuiram:
+Tatiana Fischer (https://github.com/TatianaFischer)
+Fabrício Rodrigues (https://github.com/ProgFabs), 
+Lais Petra (https://github.com/laispetra),
+Ana Terra (https://github.com/atmirala),
+Diego Messias (https://github.com/Diego-999)
 
 # Frontend - Projeto Final: rappi4
 
-[Deploy da aplicação](http://.surge.sh/)
+[Deploy da aplicação](http://rappi4b-mello.surge.sh/)
 
 [Documentação da API](https://documenter.getpostman.com/view/7549981/SWTEdGtT?version=latest#a671fbe5-a360-4cd3-b269-d5a121e19da0)
 

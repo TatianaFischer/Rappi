@@ -15,7 +15,7 @@ Devs que contribuiram:
 
 [Documentação da API](https://documenter.getpostman.com/view/7549981/SWTEdGtT?version=latest#a671fbe5-a360-4cd3-b269-d5a121e19da0)
 
-## Grif:
+## Gif:
 
 <img src="./rappi.gif"/>
 
